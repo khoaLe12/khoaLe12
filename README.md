@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khoaLe12
-- My first Time
+- My first Time using GitHub
 - 👀 I’m interested in coding game :>
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
